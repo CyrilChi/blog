@@ -1,5 +1,5 @@
 ---
-title: test1
+title: Test1
 author: Cyril
 date: 2024-08-14
 category: Jekyll
